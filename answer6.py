@@ -1,3 +1,3 @@
-name = "Tony Stark"
-salary = 1000000
-print('%s"%d'%(name,salary))
+pi = 3.14
+r = int(input())
+print("area of circle: ", (pi*(r*r)))
